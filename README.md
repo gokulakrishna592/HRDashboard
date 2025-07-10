@@ -87,7 +87,7 @@ Enhanced, customized, and maintained independently by **Gokul Krishna**
 
 **Gokul Krishna**  
 📧 kgokul592,gg@gmail.com
-🌐 [LinkedIn](https://linkedin.com/in/gokul-krishna)
+🌐 [LinkedIn](https://www.linkedin.com/in/gokul-krishna-407974199/)
 
 ---
 
