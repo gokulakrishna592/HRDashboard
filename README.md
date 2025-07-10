@@ -1,71 +1,94 @@
-# 📊 Data With Baraa — Tableau Ultimate Course
+# HR Dashboard 📊 | Tableau Visualization Project
 
-Welcome to the official repository for **Data With Baraa’s Tableau Ultimate Course**!
+A dynamic and interactive HR analytics dashboard built using **Tableau**, aimed at uncovering key workforce insights across employee demographics, attrition, performance, and departmental KPIs.
 
-🎥 **Start learning now — watch the complete, high-quality 20-hour Tableau course for free on YouTube:**  
-👉 [Watch on YouTube](https://youtu.be/K3pXnbniUcM)
-
----
-
-
-## 📚 Table of Contents
-
-- [Ultimate Course Content](./course/)
-    - [Datasets](./course/datasets/)
-    - [Docs & Cheat Sheets](./course/docs/)
-    - [Tableau Files](./course/tableau-files/)
-- [Projects](./projects/)
-    - [Project 1](./projects/project-1/)
-    - [Project 2](./projects/project-2/)
+> 🎯 This project reflects my hands-on application of Tableau in analyzing HR data, understanding workforce behavior, and transforming raw data into actionable business intelligence.
 
 ---
 
-## ☕ Stay Connected
+## 📌 Project Overview
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
-
-All Courses and their materials are completely free, and all I ask is your support through subscribing, liking, and commenting on my channel. Your engagement means the world to me and It help the channel!
-- ✅ **SQL Full Course:** [Course Link](https://youtu.be/SSKVgrwhzus) | [Download Materials](https://www.datawithbaraa.com/sql-introduction/sql-ultimate-course/) | [GIT Repo](https://github.com/DataWithBaraa/sql-ultimate-course)
-- ✅ **Tableau Full Course:** [Course Link](https://www.youtube.com/watch?v=K3pXnbniUcM) | [Download Materials](https://www.datawithbaraa.com/tableau/tableau-thank-you/) | [Public](https://public.tableau.com/app/profile/baraa.salkini/vizzes)
-
-- ✅ **SQL Data Warehouse Project:** [Course Link](https://youtu.be/SSKVgrwhzus) | [Download Materials](https://www.datawithbaraa.com/sql-introduction/advanced-sql-project/) | [GIT Repo](https://github.com/DataWithBaraa/sql-data-warehouse-project)
-- ✅ **SQL Exploratory Data Analysis Project:** [Course Link](https://youtu.be/SSKVgrwhzus) | [Download Materials](https://www.datawithbaraa.com/sql-introduction/advanced-sql-analytics-project/) | [GIT Repo](https://github.com/DataWithBaraa/sql-data-analytics-project)
-- ✅ **SQL Advanced Data Analysis Project:** [Course Link](https://youtu.be/SSKVgrwhzus) | [Download Materials](https://www.datawithbaraa.com/sql-introduction/advanced-sql-analytics-project/) | [GIT Repo](https://github.com/DataWithBaraa/sql-data-analytics-project)
-  
-- ✅ **Tableau Sales Project:** [Course Link](https://www.youtube.com/watch?v=dahrmqT5GD4) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials) | [Public](https://public.tableau.com/app/profile/baraa.salkini/vizzes)
-- ✅ **Tableau HR Project:** [Course Link](https://www.youtube.com/watch?v=UcGF09Awm4Y) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials) | [Public](https://public.tableau.com/app/profile/baraa.salkini/vizzes)
-- ✅ **ChatGPT:** [Course Link](https://www.youtube.com/watch?v=LJLNfei4i-c) | [Download Materials](https://datawithbaraa.substack.com/p/access-to-course-materials)
+This dashboard is designed to help HR managers and leadership:
+- Track headcount and attrition trends
+- Analyze employee performance distribution
+- Drill into department-wise and role-based metrics
+- Understand demographics like gender, education, and experience levels
 
 ---
 
-## 🛡️ License
+## 💡 Features & Capabilities
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-## 🌟 About Me
-
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
-
-Let's stay in touch! Feel free to connect with me on the following platforms:
-
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/baraasalkini)
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
-
-## 📄 License
-
-MIT — free for educational and personal use.  
-**Credit "Data With Baraa" when sharing!**
+| Category              | Details                                                                 |
+|-----------------------|-------------------------------------------------------------------------|
+| 📊 Dashboards         | Interactive filters, dynamic KPIs, trend charts, heat maps              |
+| 📁 Data Sources        | Excel/CSV data (cleansed and prepared for analysis)                     |
+| ⚙️ Tools Used         | Tableau Public, Excel                                                    |
+| 🔍 Drilldowns         | Department, Gender, Education, Experience, Performance                  |
+| 🎨 UI Enhancements    | Custom color palettes, KPI cards, toggle buttons                        |
 
 ---
 
+## 🧩 Folder Structure
+
+HRDashboard/
+│
+├── Datasets/ # Input files (Excel/CSV)
+├── Dashboards/ # Tableau .twb / .twbx workbooks
+├── Screenshots/ # Visual previews of dashboards
+├── README.md # This file
+└── ...
+
+---
+
+## 📷 Preview
+
+> (Add your screenshot here – save a PNG inside `Screenshots/` and link like below)
+
+![HR Dashboard Screenshot](Screenshots/hr-dashboard-overview.png)
+
+---
+
+## 🔄 Current Progress
+
+- [x] Built interactive HR overview dashboard
+- [x] Added KPIs and filters for demographics
+- [ ] Adding performance prediction indicators (planned)
+- [ ] Connecting with live data source using Google Sheets / TabPy (in progress)
+- [ ] Publishing to Tableau Public with embedded story points
+
+---
+
+## 🔧 Future Enhancements
+
+- Add time series forecast for attrition rates
+- Build comparison dashboard for department performance
+- Embed dashboard into a web app using Tableau Public iframe
+- Automate data refresh and sync with Google Sheets
+
+---
+
+## 🧠 What I Learned
+
+- Transforming HR data into actionable insights
+- Designing clean and interactive dashboards using Tableau best practices
+- Using calculated fields, parameters, and filters for dynamic views
+- Storytelling through visuals for strategic business impact
+
+---
+
+## 🙏 Credits
+
+Inspired by [DataWithBaraa's Tableau Ultimate Course](https://github.com/DataWithBaraa/tableau-ultimate-course)  
+Enhanced, customized, and maintained independently by **Gokul Krishna**
+
+---
+
+## 📬 Contact
+
+**Gokul Krishna**  
+📧 kgokul592,gg@gmail.com
+🌐 [LinkedIn](https://linkedin.com/in/gokul-krishna)
+
+---
+
+> ⭐ Star this repo if you're passionate about data storytelling in HR analytics!
